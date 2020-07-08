@@ -1,3 +1,7 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+
 .card {
   margin-top: 20px;
 }
@@ -22,9 +26,35 @@
   max-width: 80%;
 }
 
-.top-line {
+.text-center {
   text-align: center;
+}
+
+.top-line {
   color: white;
-  margin-top: 5%;
-  font-size: 24px;
+  margin-top: 8%;
+  font-size: 36px;
+}
+
+.green-background {
+  background-color: #459c53;
+  color: white;
+}
+
+.green-navbar-text {
+  color: #459c53 !important;
+}
+
+.sub-line {
+  color: white;
+  margin-top: 3%;
+  font-size: 44px;
+}
+
+.top-button {
+  display: block;
+  margin: auto;
+  margin-top: 6%;
+  padding: 10px 20px;
+  font-size: 16;
 }
