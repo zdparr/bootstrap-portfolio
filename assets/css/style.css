@@ -63,3 +63,11 @@ body {
 button {
   margin: auto;
 }
+
+.large-text {
+  font-size: 44px;
+}
+
+.bottom-break {
+  margin-bottom: 35px;
+}
