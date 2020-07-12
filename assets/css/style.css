@@ -71,3 +71,24 @@ button {
 .bottom-break {
   margin-bottom: 35px;
 }
+
+.large-col {
+  max-width: 70%;
+}
+
+.small-col {
+  display: flex;
+  max-width: 30%;
+  align-items: center;
+  justify-content: center;
+}
+
+.vertical-center {
+  align-items: center;
+  justify-content: center;
+}
+
+.buffer {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
