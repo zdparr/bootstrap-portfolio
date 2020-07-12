@@ -88,7 +88,6 @@ button {
   justify-content: center;
 }
 
-.buffer {
-  margin-top: 200px;
-  margin-bottom: 200px;
+.bottom-buffer {
+  margin-bottom: 50px;
 }
